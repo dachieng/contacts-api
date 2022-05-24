@@ -16,7 +16,7 @@ SECRET_KEY = 'django-insecure-3vuw1oyaol*75*@pf@hs6_rk7*q77k+=&60s=hq3@_83jc_4tm
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost','https://django-swagger-contacts-api.herokuapp.com/']
+ALLOWED_HOSTS = ['localhost','https://django-swagger-contacts-api.herokuapp.com']
 
 
 # Application definition
